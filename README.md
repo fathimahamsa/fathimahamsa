@@ -5,6 +5,6 @@ I'm  a python full stack developer, Currently learning python and it's framework
 
 ### My Values⏳
 
-🪄Beginners mindset and curiosity
+🔮Beginners mindset and curiosity
 
-✨Shared understanding and consensus
+🪄Shared understanding and consensus
