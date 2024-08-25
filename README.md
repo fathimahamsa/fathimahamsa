@@ -1,9 +1,9 @@
-### Hello ,🤎
+### Hello! 
 
 
-I'm  a  full stack developer, Currently learning python and it's frameworks.I Love learning new technologies and contributing to open source. 
+I'm  a  python full stack developer, Currently learning python and it's frameworks.I Love learning new technologies and contributing to open source.🤎
 
-### My Values :
+### My Values 🪄
 
 ● Beginners mindset and curiosity
 
